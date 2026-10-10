@@ -19,3 +19,8 @@ A NORMAL PCB WITH PIKACHU OUTLINE MADE BY BIHAN GHIMIRE
 <img width="528" height="674" alt="Screenshot 2026-10-10 134306" src="https://github.com/user-attachments/assets/851ce417-670e-4aa1-b868-3fa49b981a3a" />
 
 
+How to open
+Install KiCad.
+Download or clone this repository.
+Open project2.kicad_pro in KiCad.
+
